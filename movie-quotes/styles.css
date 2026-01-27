@@ -1,0 +1,61 @@
+h4 {
+      color: grey;
+        font-size: 16px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 100;
+        font-style: italic;
+        text-align: center;
+        margin-top: 7px;
+        margin-bottom: 7px;
+}
+
+p {
+        color: black;
+        font-size: 16px;
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        margin-left: 35px;
+        margin-right: 35px;
+        margin-top: 7px;
+        margin-bottom: 20px;
+  }
+
+h3 {
+        color: black;
+        font-size: 18px;
+        font-family: 'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 25px;
+        margin-bottom: 7px;
+
+  }
+
+h2 {
+        color: black;
+        font-size: 18px;
+        font-family: 'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        margin-left: 30px;
+  }
+
+h1 {
+        color: black;
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+        text-transform: uppercase;
+        text-align: left;
+        margin-left: 30px;
+  }
+hr {
+      height: 1px;
+      background-color: grey;
+      border: none;
+      margin: 30px;
+}
+header {
+      margin-top: 30px;
+}
+body {
+      padding-bottom: 30px;
+}
