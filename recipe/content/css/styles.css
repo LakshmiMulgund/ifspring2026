@@ -1,0 +1,56 @@
+body { 
+    background-color: white;
+    margin: 10%;  
+    font-size: 18px
+}
+
+article {
+    background-color: white;
+    padding: 0.5rem 2rem 1rem 2rem;
+    
+    margin: 0 0 0 10rem;
+    
+}
+
+h1 {
+    margin-bottom: 2px;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin-top: 2px;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+    font-size: 75%;
+    font-weight: normal;
+    
+}
+
+h3 {
+    text-transform: titlecase;
+    margin: 2px;
+}
+
+h4 {
+    text-transform: titlecase;
+    margin-bottom: 10px;
+}
+
+h5 {
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 5px
+}
+
+p {
+    margin-top: 5px;
+}
+
+li {
+    margin-top: 5px;
+}
+
+.regular {
+    font-style: normal;
+}
